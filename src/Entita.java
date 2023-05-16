@@ -3,6 +3,7 @@ public class Entita {
 
     private String jmeno;
     private int cislo;
+    private String prijmeni;
 
 
     /**
